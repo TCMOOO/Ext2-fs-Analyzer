@@ -1,0 +1,6 @@
+[package]
+name = "Ext2fsAnalyzer"
+version = "0.1.0"
+authors = ["TCMOOO <583806447@qq.com>"]
+
+[dependencies]
